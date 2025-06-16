@@ -42,7 +42,7 @@ Always online to guide users—ideal for fitness brands, trainers, or apps.
 
 ## 🌐 Live Demo
 
-👉 **Fitness Assistant Demo** *(Replace with actual link)*
+👉 **Fitness Assistant Demo** *https://vansh27189.github.io/personal-fitness-bot/*
 
 ---
 
